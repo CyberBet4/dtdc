@@ -1,0 +1,78 @@
+.text-gray{
+    color: gray;
+}
+.d-flex{
+    display: flex;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.mr-3{
+    margin-right: 24px;
+}
+
+.mr-2{
+    margin-right: 12px;
+}
+
+.ml-3{
+    margin-left: 24px;
+}
+
+.ml-2{
+    margin-left: 10px;
+}
+
+/* span.badge{
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12 24px;
+    color: #fff;
+    background-color: gray;
+} */
+
+span.badge{
+    border-radius: 0px;
+}
+
+.mb-0{
+    margin-bottom: 0px !important;
+}
+
+.mb-1{
+    margin-bottom: 6px !important;
+}
+
+.mb-5{
+    margin-bottom: 40px !important;
+}
+
+.pt-1{
+    padding-top: 8px !important;
+}
+
+.mt-2{
+    margin-top: 16px !important;
+}
+
+.mb-2{
+    margin-bottom: 16px !important;
+}
+
+/* draw a vertical line */
+.vertical-line{
+    border-left: 5px solid #ccc;
+    height: 100%;
+    position: relative;
+    width: 5px;
+}
+
+div.d-none{
+    display: none !important;
+}

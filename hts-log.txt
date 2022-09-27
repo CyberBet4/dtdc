@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 05 Aug 2022 11:50:57 at https://usa.dtdc.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://usa.dtdc.com/ -O1 "C:\Users\APPTIDE TECHNOLOGIES\Documents\TRIUMPH\dtdc_httrack_copied" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:51:56	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://usa.dtdc.com/)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/themes/usa_dtdc/documents/DTDC_KYC_Authorization_Letter.pdf (from https://usa.dtdc.com/)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/Buenard-Regular.eot? (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/images/flags.png (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/images/booked2.png (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/ROBOTO-LIGHT.eot (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/ROBOTO-LIGHT.woff (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/ROBOTO-LIGHT.ttf (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/ROBOTO-LIGHT.svg (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/segoe-ui-bold.eot (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/segoe-ui-bold.woff (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/segoe-ui-bold.ttf (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/segoe-ui-bold.svg (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/proximanovalight.eot (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/proximanovalight.woff (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/proximanovalight.ttf (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/proximanovalight.svg (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/proximanova-bold.eot (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/proximanova-bold.woff (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/proximanova-bold.ttf (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/proximanova-bold.svg (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/fontawesome-webfont.eot?v=4.2.0 (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/fontawesome-webfont.eot? (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/fontawesome-webfont.woff?v=4.2.0 (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/fontawesome-webfont.ttf?v=4.2.0 (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/fonts/fontawesome-webfont.svg?v=4.2.0 (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:35	Error: 	"Not Found" (404) at link https://usa.dtdc.com/sites/usa.dtdc.com/themes/usa_dtdc/css/images/loading.gif (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_lCVLOsdkvt8PtsaUast0T7B0lgYk3AbgLto9nsoGg1E.css)
+11:52:45	Error: 	"Not Found" (404) at link https://usa.dtdc.com/node/sites/usa.dtdc.com/themes/usa_dtdc/images/dtdc_logo.png (from https://usa.dtdc.com/node/1)
+11:52:45	Error: 	"Not Found" (404) at link https://usa.dtdc.com/node/sites/canada.dtdc.com/themes/ca_dtdc/images/map.png (from https://usa.dtdc.com/node/81)
+11:52:45	Error: 	"Not Found" (404) at link dev.malaysia.dtdc.com/sites/canada.dtdc.com/themes/ca_dtdc/images/DTDC-banner.png (from https://usa.dtdc.com/sites/usa.dtdc.com/files/css/css_fy-gfppDj4k4dRnr_pOLPRdXV-YB7_CoIfabAUuA84o.css)
+11:52:45	Error: 	"Not Found" (404) at link https://usa.dtdc.com/node/sites/usa.dtdc.com/themes/usa_dtdc/images/locater.png (from https://usa.dtdc.com/node/17)
+11:52:45	Error: 	"Not Found" (404) at link https://usa.dtdc.com/node/sites/usa.dtdc.com/themes/usa_dtdc/images/phone.png (from https://usa.dtdc.com/node/17)
+11:52:45	Error: 	"Not Found" (404) at link https://usa.dtdc.com/node/sites/usa.dtdc.com/themes/usa_dtdc/images/mail.png (from https://usa.dtdc.com/node/17)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 48 seconds : 176 links scanned, 142 files written (8086904 bytes overall) [7181875 bytes received at 66498 bytes/sec], 2046546 bytes transferred using HTTP compression in 74 files, ratio 29%, 22.7 requests per connection
+(33 errors, 0 warnings, 0 messages)

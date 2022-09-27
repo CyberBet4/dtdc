@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://usa.dtdc.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>usa.dtdc.com</title>
+ <link>https://usa.dtdc.com</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>image 1</title>
+ <link>https://usa.dtdc.com/node/156</link>
+ <description>&lt;div class=&quot;field field-name-field-slider-image field-type-image field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Slider Image:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://usa.dtdc.com/sites/usa.dtdc.com/files/KYC_Banner_KYC.jpg&quot; width=&quot;750&quot; height=&quot;275&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-ename field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;URL:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;click here&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-fname field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Document url:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Document Link&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 23 Apr 2020 09:42:24 +0000</pubDate>
+ <dc:creator>usadtdcgw</dc:creator>
+ <guid isPermaLink="false">156 at https://usa.dtdc.com</guid>
+ <comments>https://usa.dtdc.com/node/156#comments</comments>
+</item>
+<item>
+ <title>FAQ</title>
+ <link>https://usa.dtdc.com/kyc/faq</link>
+ <description></description>
+ <pubDate>Thu, 20 Sep 2018 12:45:23 +0000</pubDate>
+ <dc:creator>usadtdcgw</dc:creator>
+ <guid isPermaLink="false">136 at https://usa.dtdc.com</guid>
+ <comments>https://usa.dtdc.com/kyc/faq#comments</comments>
+</item>
+<item>
+ <title>KYC</title>
+ <link>https://usa.dtdc.com/kyc</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Image:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;https://usa.dtdc.com/sites/usa.dtdc.com/files/kyc_1.jpg&quot; width=&quot;302&quot; height=&quot;323&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 20 Sep 2018 12:44:06 +0000</pubDate>
+ <dc:creator>usadtdcgw</dc:creator>
+ <guid isPermaLink="false">131 at https://usa.dtdc.com</guid>
+ <comments>https://usa.dtdc.com/kyc#comments</comments>
+</item>
+</channel>
+</rss>
